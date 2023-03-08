@@ -1,0 +1,13 @@
+.img-para{
+  float: left;
+  padding-right: 1.5vh;
+  margin: 5px;
+  width: 10vh;
+  height: 10vh;
+}
+
+.content-para{
+  padding-right: 4vh;
+  margin-top: 3vh;
+  height: 10vh;
+}

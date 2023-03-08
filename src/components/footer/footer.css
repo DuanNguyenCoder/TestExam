@@ -1,0 +1,10 @@
+.para-footer{
+margin-left: 8%;
+font-size: 2vh;
+}
+.footer{
+  border-top: 1px solid #DEDEDE;
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+}
